@@ -47,3 +47,6 @@ Los archivos listos quedarán en la carpeta `dist/`.
 Proyecto libre bajo licencia **MIT**.
 
 ---
+## ⭐ Nota
+
+Este proyecto fue creado únicamente con fines de poner en practica el aprendizaje, con el apoyo del curso de **Fernando Herrera**, **Programacion Para Principiantes**.
