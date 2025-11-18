@@ -47,7 +47,3 @@ Los archivos listos quedarán en la carpeta `dist/`.
 Proyecto libre bajo licencia **MIT**.
 
 ---
-
-## ⭐ Nota
-
-Este proyecto fue creado únicamente con fines de aprendizaje, inspirado en el curso de **Fernando Herrera**.
